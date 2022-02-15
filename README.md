@@ -9,7 +9,7 @@ wkdgmltjd1865@gmail.com / [https://github.com/JHeeSeong](https://github.com/JHee
 ---
 
 - **Back-end** Java, Kotlin, Python
-- **ETC** Git, MySQL, Oracle, MariaDB, Altibase
+- **ETC** Git, MySQL, Oracle, MariaDB, Altibase, Filebeat, Logstash
 
 ## COMPETENCIES
 
@@ -25,7 +25,7 @@ wkdgmltjd1865@gmail.com / [https://github.com/JHeeSeong](https://github.com/JHee
 
 ---
 
-- 아이페이지온, 서버 엔지니어 (2018.06 - CURRENT) - 3년 5개월
+- 아이페이지온, 서버 엔지니어 (2018.06 - 2022.02) - 3년 8개월
 - 안랩 Software QA 연수생 (2015.08 - 2016.02) - 6개월
 
 ## PROJECTS
@@ -54,6 +54,9 @@ wkdgmltjd1865@gmail.com / [https://github.com/JHeeSeong](https://github.com/JHee
 - 네트워크 관리 인터페이스
     - **Tech Stack** : Java, Javalin, Unirest, MQTT
     - **Summary**: 네트워크 리소스 제공을 위한 RESTful API 개발
+- 호 통계 프로세스
+    - **Tech Stack** : Java, Filebeat, Logstash, MQTT
+    - **Summary**: 호 통계 기능 제공을 위한 프로세스 개발
 - 이력 삭제 프로세스
     - **Tech Stack** : Java(Spring boot, JPA)
     - **Summary** : 스케줄링을 통한 이력 삭제 기능 개발
