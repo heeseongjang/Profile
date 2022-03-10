@@ -1,6 +1,6 @@
 # HEESEONG JANG
 
-wkdgmltjd1865@gmail.com / [https://github.com/JHeeSeong](https://github.com/JHeeSeong) / 82+ 10-7387-3824
+wkdgmltjd1865@gmail.com / https://github.com/heeseongjang / 82+ 10-7387-3824
 
 ---
 
@@ -55,7 +55,7 @@ wkdgmltjd1865@gmail.com / [https://github.com/JHeeSeong](https://github.com/JHee
     - **Tech Stack** : Java, Javalin, Unirest, MQTT
     - **Summary**: 네트워크 리소스 제공을 위한 RESTful API 개발
 - 호 통계 프로세스
-    - **Tech Stack** : Java, Filebeat, Logstash, MQTT
+    - **Tech Stack** : Java, Filebeat, Logstash, Kafka, MQTT
     - **Summary**: 호 통계 기능 제공을 위한 프로세스 개발
 - 이력 삭제 프로세스
     - **Tech Stack** : Java(Spring boot, JPA)
