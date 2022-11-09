@@ -8,8 +8,8 @@ wkdgmltjd1865@gmail.com / https://github.com/heeseongjang / 82+ 10-7387-3824
 
 ---
 
-- **Back-end** Java, Kotlin, Python
-- **ETC** Git, MySQL, Oracle, MariaDB, Altibase, Filebeat, Logstash
+- **Back-end** Java, Python, Kotlin
+- **ETC** Git, MySQL, Oracle, Postgresql, MariaDB, Altibase, Filebeat, Logstash
 
 ## COMPETENCIES
 
@@ -25,6 +25,7 @@ wkdgmltjd1865@gmail.com / https://github.com/heeseongjang / 82+ 10-7387-3824
 
 ---
 
+- Elice, 서버 엔지니어 (2022.04 - ) - CURRENT
 - 아이페이지온, 서버 엔지니어 (2018.06 - 2022.02) - 3년 8개월
 - 안랩 Software QA 연수생 (2015.08 - 2016.02) - 6개월
 
