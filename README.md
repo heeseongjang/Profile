@@ -8,13 +8,14 @@ wkdgmltjd1865@gmail.com / https://github.com/heeseongjang / 82+ 10-7387-3824
 
 ---
 
-- **Back-end** Java, Python, Kotlin
+- **Back-end** Python, Java, Kotlin
 - **ETC** Git, MySQL, Oracle, Postgresql, MariaDB, Altibase, Filebeat, Logstash
 
 ## COMPETENCIES
 
 ---
 
+- 에듀테크 플랫폼 서비스 개발
 - VoIP기반의 전화 교환 시스템(SowftSwitch) 데이터 제공 서비스 개발
 - 통신 장비 개별 관리 시스템 기능 개발
 - 그룹 영상 통화 서비스(SKT MeetUs) Emulator 및 성능 계측 기능 개발
@@ -25,13 +26,21 @@ wkdgmltjd1865@gmail.com / https://github.com/heeseongjang / 82+ 10-7387-3824
 
 ---
 
-- ..., 서버 엔지니어 (2022.04 - ) - CURRENT
+- 엘리스, 서버 엔지니어 (2022.04 - 현재)
 - 아이페이지온, 서버 엔지니어 (2018.06 - 2022.02) - 3년 8개월
 - 안랩 Software QA 연수생 (2015.08 - 2016.02) - 6개월
 
 ## PROJECTS
 
 ---
+
+
+### 에듀테크 플랫폼 서비스**
+
+- 서비스 고도화
+    - **Tech Stack** : Python
+    - **Summary** : 플랫폼 기능 고도화 및 신규 기능 개발
+- DB(Postgresql, Mongodb) 운영
 
 ### VoIP 기반의 **전화 교환 시스템(SowftSwitch)**
 
