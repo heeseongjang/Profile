@@ -8,7 +8,8 @@ wkdgmltjd1865@gmail.com / https://github.com/heeseongjang / 82+ 10-7387-3824
 
 ---
 
-- **Back-end** Python, Java, Kotlin
+- **Back-end** <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 - **ETC** Git, MySQL, Oracle, Postgresql, MariaDB, Altibase, Filebeat, Logstash
 
 ## COMPETENCIES
