@@ -35,7 +35,7 @@ wkdgmltjd1865@gmail.com / https://github.com/heeseongjang / 82+ 10-7387-3824
 ---
 
 
-### 에듀테크 플랫폼 서비스**
+### 에듀테크 플랫폼 서비스
 
 - 서비스 고도화 및 신규 기능
     - **Tech Stack** : Python(FastAPI), PostgreSQL, Logstash, Elasticsearch
