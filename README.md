@@ -37,11 +37,12 @@ wkdgmltjd1865@gmail.com / https://github.com/heeseongjang / 82+ 10-7387-3824
 
 ### 에듀테크 플랫폼 서비스**
 
-- 서비스 고도화
+- 서비스 고도화 및 신규 기능
     - **Tech Stack** : Python(FastAPI), PostgreSQL, Logstash, Elasticsearch
     - **Summary** : 플랫폼 기능 고도화 및 신규 기능 개발
-- DB(Postgresql, Mongodb) 운영
-
+        - 아임포트를 이용한 구독 결제, B2B 결제 및 일반 결제 기능
+        - Elasticsearch를 이용한 통합 검색 기능
+     
 ### VoIP 기반의 **전화 교환 시스템(SowftSwitch)**
 
 - 솔루션 고도화
